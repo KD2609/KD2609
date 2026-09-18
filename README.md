@@ -7,3 +7,17 @@
 - 💬 Ask me about Java, DSA, React, JavaScript, HTML and CSS
 - 📫 How to reach me: LinkedIn
 - ⚡ Fun fact: I enjoy solving DSA problems and building projects
+
+- ## Tech Stack
+
+- Java
+- C
+- Python
+- JavaScript
+- HTML5
+- CSS3
+- React
+- Spring Boot
+- PostgreSQL
+- MongoDB
+- Redis
